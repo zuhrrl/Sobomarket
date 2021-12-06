@@ -2,7 +2,7 @@
 
 ## About Sobomarket
 
-Sobomarket is simple backend eCommerce app, this project is built with Microservice architecture. don't worry man, tasks are separated by each service. 
+Sobomarket is a simple backend eCommerce app, this project is built with Microservice architecture. don't worry man, tasks are separated by each service. 
 
 Software and Language: Sobomarket is using [Docker](https://www.docker.com/) Software to easily build and run some service. 
 
@@ -10,7 +10,7 @@ Software and Language: Sobomarket is using [Docker](https://www.docker.com/) Sof
 
 api-gateway: Sobomarket is using [PHP](https://www.php.net/) and [Laravel](https://laravel.com/) Framework to build API-Gateway
 
-product-service: Backend API for CURD and connect each service. will be using [Nodejs](https://nodejs.org/en/) and [Express](https://expressjs.com/). The database for this service is using NoSQL database [Mongodb](https://www.mongodb.com/).
+product-service: Backend API for CURD and connect each service. will be using [Nodejs](https://nodejs.org/en/) and [Express](https://expressjs.com/). The database for this service is using NoSQL database [MongoDB](https://www.mongodb.com/).
 
 member-service: updated soon
 
