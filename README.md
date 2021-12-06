@@ -41,6 +41,6 @@ member-service: updated soon
 | delete product | `/api/delete` |```{"product_id" : "id"}```|```{"message" : "", "data" : ""}```|
 
 
-## Credits and Author
+## Author
 
 - [Sobomarket](https://github.com/zuhrrl/sobomarket)
