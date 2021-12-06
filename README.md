@@ -39,3 +39,8 @@ member-service: updated soon
 | add product | `/api/add` |```{"name":"","price":,"brand":""}```|```{"message" : "", "data" : ""}```|
 | update product | `/api/update` |```{"product_id" : "id", "name":"","price":,"brand":""}```|```{"message" : "", "data" : ""}```|
 | delete product | `/api/delete` |```{"product_id" : "id"}```|```{"message" : "", "data" : ""}```|
+
+
+## Credits and Author
+
+- [Sobomarket](https://github.com/zuhrrl/sobomarket)
