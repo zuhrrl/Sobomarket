@@ -10,7 +10,7 @@ Software and Language: Sobomarket is using [Docker](https://www.docker.com/) Sof
 
 api-gateway: Sobomarket is using [PHP](https://www.php.net/) and [Laravel](https://laravel.com/) Framework to build API-Gateway
 
-product-service: Backend API for CRUD and connect each service. will be using [Nodejs](https://nodejs.org/en/) and [Express](https://expressjs.com/). The database for this service is using NoSQL database [MongoDB](https://www.mongodb.com/).
+product-service: Backend API for CRUD to connect each service. will be using [Nodejs](https://nodejs.org/en/) and [Express](https://expressjs.com/). The database for this service is using NoSQL database [MongoDB](https://www.mongodb.com/).
 
 member-service: updated soon
 
