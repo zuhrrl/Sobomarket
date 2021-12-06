@@ -1,0 +1,18 @@
+{
+  "name": "product-service",
+  "version": "1.0.0",
+  "description": "Product Service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node service"
+  },
+  "author": "Zuhrul Anam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14",
+    "validator": "^13.7.0"
+  }
+}
