@@ -25,7 +25,7 @@ member-service: updated soon
 
 ## Installation
 
-- Run `git clone https://github.com/zuhrrl/sobomarket.git`
+- Run `git clone https://github.com/zuhrrl/Sobomarket.git`
 - Move Project Dir `cd sobomarket`
 - Update `.env` Environment variable
 
@@ -43,4 +43,4 @@ member-service: updated soon
 
 ## Author
 
-- [Sobomarket](https://github.com/zuhrrl/sobomarket)
+- [Sobomarket](https://github.com/zuhrrl/Sobomarket)
