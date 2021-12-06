@@ -19,7 +19,7 @@ member-service: updated soon
 - Using Docker
 - Microservice architecture
 - Nodejs, Laravel
-- Standart coding style and readable
+- Standard coding style and readable
 - More language and service implement
 
 
